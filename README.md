@@ -1,4 +1,4 @@
-                                               Importing CSV Files into PostgreSQL
+**"Importing CSV Files into PostgreSQL"**
 
 This repository contains a Python script that imports CSV files into a PostgreSQL database. The script automates the process of cleaning and loading data, making it straightforward to transfer data from CSV files to a database.
 
